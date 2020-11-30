@@ -1,4 +1,4 @@
-# mexicome-app
+# Mexicome-app
 
 Welcome to Mexicome App. Here you will find the code required to run our application and get the latest information on COVID-19 cases and crime rates in Mexico's top 15 tourist destinations.
 
